@@ -1,0 +1,400 @@
+[
+    {
+      "id": "c1",
+      "name": "Category 1",
+      "path": "/",
+      "icon": "",
+      "childs": [
+        {
+          "id": "c1a1",
+          "name": "Area 1",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c1a2",
+          "name": "Area 2",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c1a3",
+          "name": "Area 3",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c1a4",
+          "name": "Area 4",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c1a5",
+          "name": "Area 5",
+          "path": "/",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "name": "Category 2",
+      "path": "/",
+      "icon": "",
+      "childs": [
+        {
+          "id": "c2a1",
+          "name": "Area 1",
+          "path": "/",
+          "icon": "",
+          "childs": [
+            {
+              "id": "c2a1s1",
+              "name": "Sub-Area 1",
+              "path": "/",
+              "icon": ""
+            },
+            {
+              "id": "c2a1s2",
+              "name": "Sub-Area 2",
+              "path": "/",
+              "icon": ""
+            },
+            {
+              "id": "c2a1s3",
+              "name": "Sub-Area 3",
+              "path": "/",
+              "icon": ""
+            }
+          ]
+        },
+        {
+          "id": "c2a2",
+          "name": "Area 2",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a3",
+          "name": "Area 3",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a4",
+          "name": "Area 4",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a5",
+          "name": "Area 5",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a6",
+          "name": "Area 6",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a7",
+          "name": "Area 7",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a8",
+          "name": "Area 8",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a9",
+          "name": "Area 9",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a10",
+          "name": "Area 10",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a11",
+          "name": "Area 11",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a12",
+          "name": "Area 12",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a13",
+          "name": "Area 13",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a14",
+          "name": "Area 14",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a15",
+          "name": "Area 15",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a16",
+          "name": "Area 16",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a17",
+          "name": "Area 17",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a18",
+          "name": "Area 18",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a19",
+          "name": "Area 19",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a20",
+          "name": "Area 20",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a21",
+          "name": "Area 21",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a22",
+          "name": "Area 22",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a23",
+          "name": "Area 23",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a24",
+          "name": "Area 24",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a25",
+          "name": "Area 25",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a26",
+          "name": "Area 26",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a27",
+          "name": "Area 27",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a28",
+          "name": "Area 28",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a29",
+          "name": "Area 29",
+          "path": "/",
+          "icon": ""
+        },
+        {
+          "id": "c2a30",
+          "name": "Area 30",
+          "path": "/",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "name": "Category 3",
+      "path": "/",
+      "icon": "",
+      "childs": [
+        {
+          "id": "c3a1",
+          "name": "Area 1",
+          "path": "/",
+          "icon": "",
+          "childs": [
+            {
+              "id": "c3a1s1",
+              "name": "Sub-Area 1",
+              "path": "/",
+              "icon": "",
+              "childs": [
+                {
+                  "id": "c3a1s1c1",
+                  "name": "Child-Area 1",
+                  "path": "/",
+                  "icon": ""
+                },
+                {
+                  "id": "c3a1s1c2",
+                  "name": "Child-Area 2",
+                  "path": "/",
+                  "icon": ""
+                },
+                {
+                  "id": "c3a1s1c3",
+                  "name": "Child-Area 3",
+                  "path": "/",
+                  "icon": ""
+                },
+                {
+                  "id": "c3a1s1c4",
+                  "name": "Child-Area 4",
+                  "path": "/",
+                  "icon": ""
+                },
+                {
+                  "id": "c3a1s1c5",
+                  "name": "Child-Area 5",
+                  "path": "/",
+                  "icon": ""
+                },
+                {
+                  "id": "c3a1s1c6",
+                  "name": "Child-Area 6",
+                  "path": "/",
+                  "icon": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c3a2",
+          "name": "Area 2",
+          "path": "/",
+          "icon": "",
+          "childs": [
+            {
+              "id": "c3a2s1",
+              "name": "Sub-Area 1",
+              "path": "/",
+              "icon": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "name": "Category 4",
+      "path": "/",
+      "icon": "",
+      "childs": [
+        {
+          "id": "c4a1",
+          "name": "Area 1",
+          "path": "/",
+          "icon": "",
+          "childs": [
+            {
+              "id": "c4a1s1",
+              "name": "Sub-Area 1",
+              "path": "/",
+              "icon": ""
+            }
+          ]
+        },
+        {
+          "id": "c4a2",
+          "name": "Area 2",
+          "path": "/",
+          "icon": "",
+          "childs": [
+            {
+              "id": "c4a2s1",
+              "name": "Sub-Area 1",
+              "path": "/",
+              "icon": ""
+            }
+          ]
+        },
+        {
+          "id": "c4a3",
+          "name": "Area 3",
+          "path": "/",
+          "icon": "",
+          "childs": [
+            {
+              "id": "c4a3s1",
+              "name": "Sub-Area 1",
+              "path": "/",
+              "icon": ""
+            }
+          ]
+        },
+        {
+          "id": "c4a4",
+          "name": "Area 4",
+          "path": "/",
+          "icon": "",
+          "childs": [
+            {
+              "id": "c4a4s1",
+              "name": "Sub-Area 1",
+              "path": "/",
+              "icon": ""
+            }
+          ]
+        },
+        {
+          "id": "c4a5",
+          "name": "Area 5",
+          "path": "/",
+          "icon": "",
+          "childs": [
+            {
+              "id": "c4a5s1",
+              "name": "Sub-Area 1",
+              "path": "/",
+              "icon": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
