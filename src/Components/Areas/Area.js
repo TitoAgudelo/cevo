@@ -4,15 +4,13 @@ class Area extends React.Component {
   constructor (props) {
     super(props)
     this.state = {
-      page: null
+      error: null
     }
   }
 
   render () {
     const { match } = this.props;
-    return (
-      <div><h1>Area {match.params.id}</h1></div>
-    )
+    return <div><h1>Area {match.params.id}</h1></div>
   }
 }
 

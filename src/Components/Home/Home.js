@@ -8,9 +8,11 @@ class Home extends Component {
     }
 
     render(){
-        return <section>
+        return (
+          <section>
             <h1>Welcome to Navigation Test CEVO</h1>
-        </section>
+          </section>
+        )
     }
 }
 
